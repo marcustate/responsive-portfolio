@@ -1,0 +1,15 @@
+body {
+    background-image: url("img/background.jpg");
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    clear: right;
+    font: 200;
+
+    
+}
+#profile {
+    width: 150px;
+    height: 200px;
+    /* float: left; */
+}
+
